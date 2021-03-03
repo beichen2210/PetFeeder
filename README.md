@@ -5,6 +5,7 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 
 一、方案标题
   宠物喂食器-PetFeeder
+
 二、方案应用场景
 地点：
 家庭内部.
@@ -15,8 +16,9 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 3. 亦可通过自带的语音识别模块,实现语音控制进行投喂食物.
 4. 扩展功能,后续扩展摄像头模组,集成云台,实现监控宠物行为,以及食盆剩余食量的功能.
 5. 扩展功能,远端语音对话,实现远程语音与宠物沟通.
+
 三、开发计划
-4月30前完成.
-1）2月28前准备物料
-2）3月8-4月15日嵌入式固件开发、云端API对接开发
-3）4月25日前整体调试。
+1. 3月8前准备物料.
+3. 3月8-4月15日嵌入式固件开发、云端API对接开发.
+4. 4月25日前整体调试.
+5. 4月30前完成.
