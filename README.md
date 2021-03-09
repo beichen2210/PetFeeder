@@ -54,4 +54,4 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 参考同类产品模型:
 https://youtu.be/riDFYJS5jQ4
 
-<iframe width="1260" height="709" src="https://www.youtube.com/embed/riDFYJS5jQ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole.png)](https://youtu.be/riDFYJS5jQ4)
