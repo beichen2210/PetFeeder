@@ -49,3 +49,7 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
   $ 装备磨具完成整个产品.  
 4. 4月30前完成.  
   $ 整备产品压力测试7天.  
+
+
+参考同类产品模型:
+https://youtu.be/riDFYJS5jQ4
