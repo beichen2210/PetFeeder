@@ -52,6 +52,4 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 
 
 参考同类产品模型:
-https://youtu.be/riDFYJS5jQ4
-
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole.png)](https://youtu.be/riDFYJS5jQ4)
+[![PetFeeder](https://res.cloudinary.com/marcomontalbano/image/upload/v1615282366/video_to_markdown/images/youtube--riDFYJS5jQ4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/riDFYJS5jQ4 "PetFeeder")
